@@ -1,0 +1,76 @@
+---
+title: "Project_Proposal"
+author: "Phalane Kagiso"
+format: html
+---
+
+# Title
+
+**The competitive Effects of Hypothetical Merger Between Shoprite and Pick n Pay in South Africa**
+
+# Background
+
+South African's grocery retail industry plays a huge role in the economy.Large Supermarkets compete y offering food,household goods and other everyday products.
+
+Largest Supermarket retailers includes:
+1. Shoprite
+2. Pick n Pay 
+3. Woolworths Food
+4. SPAR
+5. BOXER
+6. Independent Retailers
+Competition authorities carefully assess mergers between large firms because they may reduce competition, increase prices, reduce consumer choices or create barriers for new entrants.
+
+This project investigates the potential competition effects of a hypothetical merger between Shoprite and Pick n Pay.
+
+# Research Question
+**Would a hypothetical merger between Shoprite and Pick n Pay substantially lessen competition in South African grocery retail market?**
+
+# Objectives
+
+The objectives of this project is to:
+1. Define the relevant product and geographic market.
+2. Calculate market shares of major supermarket retailers.
+3. Measure market concentration using concentration ratios and the Herfindahl-Hirschman Index (HHI).
+4. Assess the potential competitive effects of the merger.
+5. Discuss implications for consumers and competition policy.
+
+# Data sources
+
+The analysis will use publicly available data from:
+
+- Shoprite Annual Reports
+- Pick n Pay Annual Reports
+- SPAR Annual Reports
+- Woolworths Holdings Annual Reports
+- Statistics South Africa
+- Competition Commission South Africa
+- South African Reserve Bank (where applicable)
+
+
+# Methodology 
+
+The project will follow these steps:
+
+1. Define the relevant market.
+2. Collect and clean company and industry data.
+3. Calculate market shares.
+4. Compute concentration ratios (CR4 and CR5).
+5. Calculate the Herfindahl-Hirschman Index (HHI).
+6. Analyse market concentration before and after the hypothetical merger.
+7. Discuss the implications for competition and consumer welfare.
+
+
+# Expected outputs
+
+The project will produce:
+
+- A professional consulting report
+- Reproducible R code
+- Market share tables
+- Data visualizations
+- HHI calculations
+- Competition assessment
+- A GitHub portfolio repository
+
+
